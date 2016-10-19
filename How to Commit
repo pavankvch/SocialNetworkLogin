@@ -1,0 +1,9 @@
+How to Commit into Remote Repository
+
+
+git init
+git add .
+git status
+git commit -m "message"
+git remote add origin https://github.com/pavankvch/SocialNetworkLogin.git
+git push -u origin master
