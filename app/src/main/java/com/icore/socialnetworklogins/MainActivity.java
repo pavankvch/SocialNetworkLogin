@@ -145,7 +145,6 @@ And then callback manager will handle the login responses.
             textView.setText(profile.getName());
         }
     }
-
 }
 
 
