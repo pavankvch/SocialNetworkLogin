@@ -1,5 +1,8 @@
 
 
+to Know openssl in Ubuntu
+which openssl
+
 Generate release Key for Facebook
 
 keytool -exportcert -alias socialnetworkalias -keystore "/home/sundar/Downloads/traffic/SocialNetworkLogins/socialnetworklogin.jks" | "/usr/bin/openssl" sha1 -binary | "/usr/bin/openssl" base64
